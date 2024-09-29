@@ -4,9 +4,10 @@
 //git add .
 //git status
 //git commit -m "commit msg"
-//git branch -M master
+//git branch -Main
 //git remote add origins https://github.com/arvinalmario/multidimension-array.git
-//git push -u origin master
+//git push -u origin main
+
 //git pull
 //git checkout -b name of branch
 //git push -set-upstream origin name of branch
